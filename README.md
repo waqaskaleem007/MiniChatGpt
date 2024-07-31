@@ -64,7 +64,7 @@ Follow these steps to set up the Chat Bot App locally:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Faisal-Sey/Mini-Chat-GPT.git
+   https://github.com/waqaskaleem007/MiniChatGpt.git
    ```
 
 2. Navigate to the backend directory:
